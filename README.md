@@ -1,2 +1,2 @@
-# Baekjoon_code
-백준 문제풀이 코드 업로드합니다.
+# C_basic_study
+Baekjoon 문제 풀이로 C기본 문법 공부
